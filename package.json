@@ -1,5 +1,5 @@
 {
-  "name": "starwars-names",
+  "name": "@uxplusdev/starwars-names",
   "version": "1.0.0",
   "description": "Get random Star Wars names",
   "main": "src/index.js",
@@ -23,5 +23,6 @@
   "homepage": "https://github.com/smilee/starwars-names#readme",
   "dependencies": {
     "unique-random-array": "2.0.0"
-  }
+  },
+  "devDependencies": {}
 }
